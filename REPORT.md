@@ -34,3 +34,7 @@
 ## 6. Git
 
 Переданная сборка содержала файлы проекта без истории Git. Импорт и доработка подготовлены в трёх ветках: `001-currency-specs`, `002-currency-app` и `003-currency-tests-report`. Сначала зафиксирована спецификация, затем сервис и интерфейс, затем тесты и отчёт.
+
+- [PR №1 — спецификация и план](https://github.com/AlexandrZaharov233/lab3-currency-converter/pull/1)
+- [PR №2 — конвертер и графики курсов](https://github.com/AlexandrZaharov233/lab3-currency-converter/pull/2)
+- [PR №3 — тесты и отчёт](https://github.com/AlexandrZaharov233/lab3-currency-converter/pull/3)
